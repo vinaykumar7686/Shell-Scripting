@@ -2,6 +2,6 @@
 
 echo "Hello World!"
 
-A="This is Vinay Kumar"
+A="INDIA"
 
-echo $A
+echo "I love my "$A
