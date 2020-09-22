@@ -1,0 +1,9 @@
+1: ls
+    Use: To list the files and folders in a folder
+    
+
+2: chmod
+    Use: To remove or add permissions for a file
+    Syntax: chmod <+/-> <r/w/x/...> <file_name>
+    Example : chmod -r Hello.bash
+    Example Explaination: Above Example removes read permissions for the file.
