@@ -7,3 +7,15 @@
     Syntax: chmod <+/-> <r/w/x/...> <file_name>
     Example : chmod -r Hello.bash
     Example Explaination: Above Example removes read permissions for the file.
+
+3: echo "Hello World!" > output.txt
+    Use: it saves Hello World! in a file named output.txt
+    
+   echo "Hello World!" >> output.txt
+    Use: it appends Hello World! in a file named output.txt
+    
+4: cat [>>/>] "File Name" 
+    Use: It appends/writes whatever is written in the shell to file
+
+5: cat << Delimeter -_-_-_-_-_ Delimeter
+    Use: Displayes -_-_-_-_-_ to shell
